@@ -1,0 +1,42 @@
+.end {
+    display: flex;
+    justify-content: flex-end;
+}
+.start {
+    display: flex;
+    justify-content: flex-start;
+}
+.pad {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.around {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.margin {
+    margin: 0 !important;
+}
+.height {
+    height: 620px !important;
+}
+.center {
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-height {
+    height: 104px;
+} 
+.background-img {
+    background-image: url('image.svg');
+}
+.btr {
+    border-radius: 0%;
+}

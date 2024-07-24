@@ -1,0 +1,18 @@
+<nav class="navbar navbar-expand-lg">
+    <div class="container-fluid pad margin">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"></button>
+        <!-- <div class="row"> -->
+            <div class="container around">
+                <div><div class="col"><img src="logo.png" alt="Logo" width="104px" class=""></div></div>
+                <div class="center">
+                    <div class="col-3">ABOUT</div>
+                    <div class="col-3">WORK</div>
+                    <div class="col-3">TEAM</div>
+                    <div class="col-3">BLOG</div>
+                    <div class="col-3">CONTACT</div>
+                </div>
+                <div><div class="col end"><button type="button" class="btn btn-dark">CONTACT US</button></div></div>
+            </div>
+        </div>
+    </div>
+</nav>
